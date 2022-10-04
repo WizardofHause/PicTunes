@@ -1,0 +1,275 @@
+{
+    "albums": [
+        {
+            "id": 1,
+            "artist": "Prince and the Revolution",
+            "title": "Purple Rain",
+            "img_url": "",
+            "popularity": 96,
+            "tracks": [
+                "Let's Go Crazy",
+                "Take Me With U",
+                "The Beautiful Ones",
+                "Computer Blue",
+                "Darling Nikki",
+                "When Doves Cry",
+                "I Would Die 4 U",
+                "Baby I'm a Star",
+                "PurpleRain"
+            ],
+            "date": {
+                "month": "June",
+                "day": 25,
+                "year": 1984
+            }
+        },
+        {
+            "id": 2,
+            "artist": "The Beatles",
+            "title": "Abbey Road",
+            "img_url": "",
+            "popularity": 90,
+            "tracks": [
+                "Come Together",
+                "Something",
+                "Maxwell's Silver Hammer",
+                "Oh! Darling",
+                "Octopus's Garden",
+                "I Want You (She's So Heavy)",
+                "Here Comes the Sun",
+                "Because",
+                "You Never Give Me Your Money",
+                "Sun King",
+                "Mean Mr Mustard",
+                "Polythene Pam",
+                "She Cam In Through The Bathroom Window",
+                "Golden Slumbers",
+                "Carry That Weight",
+                "The End",
+                "Her Majesty"
+            ],
+            "date": {
+                "month": "September",
+                "day": 26,
+                "year": 1969
+            }
+        },
+        {
+            "id": 3,
+            "artist": "Led Zeppelin",
+            "title": "Led Zeppelin IV",
+            "img_url": "",
+            "popularity": 91,
+            "tracks": [
+                "Black Dog",
+                "Rock and Roll",
+                "The Battle of Evermore",
+                "Stairway to Heaven",
+                "Misty Mountain Top",
+                "Four Sticks",
+                "Going to California",
+                "When the Levee Breaks"
+            ],
+            "date": {
+                "month": "February",
+                "day": 21,
+                "year": 1972
+            }
+        },
+        {
+            "id": 4,
+            "artist": "Michael Jackson",
+            "title": "Thriller",
+            "img_url": "",
+            "popularity": 89,
+            "tracks": [
+                "Wanna Be Startin' Somethin'",
+                "Baby Be Mine",
+                "The Girl Is Mine",
+                "Thriller",
+                "Beat It",
+                "Billie Jean",
+                "Human Nature",
+                "P.Y.T. (Pretty Young Thing)",
+                "The Lady in My Life"
+            ],
+            "date": {
+                "month": "November",
+                "day": 30,
+                "year": 1982
+            }
+        },
+        {
+            "id": 5,
+            "artist": "Nirvana",
+            "title": "Nevermind",
+            "img_url": "",
+            "popularity": 88,
+            "tracks": [
+                "Smells Like Teen Spirit",
+                "In Bloom",
+                "Come as You Are",
+                "Breed",
+                "Lithium",
+                "Polly",
+                "Territorial Pissings",
+                "Drain You",
+                "Lounge Act",
+                "Stay Away",
+                "On a Plain",
+                "Something in the Way",
+                "Endless, Nameless"
+            ],
+            "date": {
+                "month": "September",
+                "day": 24,
+                "year": 1991
+            }
+        },
+        {
+            "id": 6,
+            "artist": "TLC",
+            "title": "CrazySexyCool",
+            "img_url": "",
+            "popularity": 81,
+            "tracks": [
+                "Intro-Lude",
+                "Creep",
+                "Kick Your Game",
+                "Diggin' On You",
+                "Case Of The Fake People",
+                "CrazySexyCool",
+                "Red Light Special",
+                "Waterfalls",
+                "Intermission-Lude",
+                "Let's Do It Again",
+                "If I Was Your Girl Friend",
+                "Sexy",
+                "Take Our Time",
+                "Can I Get A Witness",
+                "Switch",
+                "Sumthin' Wicked This Way Comes"
+            ],
+            "date": {
+                "month": "November",
+                "day": 15,
+                "year": 1994
+            }
+        },
+        {
+            "id": 7,
+            "artist": "Madonna",
+            "title": "Like a Virgin",
+            "img_url": "",
+            "popularity": 74,
+            "tracks": [
+                "Material Girl",
+                "Angel",
+                "Like a Virgin",
+                "Over and Over",
+                "Love Don't Live Here Anymore",
+                "Dress You Up",
+                "Shoo-Bee-Doo",
+                "Pretender",
+                "Stay"
+            ],
+            "date": {
+                "month": "November",
+                "day": 12,
+                "year": 1984
+            }
+        },
+        {
+            "id": 8,
+            "artist": "Eminem",
+            "title": "The Marshall Mathers LP",
+            "img_url": "",
+            "popularity": 84,
+            "tracks": [
+                "Public Service Announcement",
+                "Kill You",
+                "Stan",
+                "Paul (skit)",
+                "Who Knew",
+                "Steve Berman",
+                "The Way I Am",
+                "The Real Slim Shady",
+                "Remember Me?",
+                "I'm Back",
+                "Marshall Mathers",
+                "Ken Kaniff (skit)",
+                "Drug Ballad",
+                "Amityville",
+                "Bitch Please II",
+                "Kim",
+                "Under the Influence",
+                "Criminal"
+            ],
+            "date": {
+                "month": "May",
+                "day": 23,
+                "year": 2000
+            }
+        },
+        {
+            "id": 9,
+            "artist": "Stevie Wonder",
+            "title": "Songs in the Key of Life",
+            "img_url": "",
+            "popularity": 92,
+            "tracks": [
+                "Love's In Need Of Love Today",
+                "Have A Talk With God",
+                "Village Ghetto Land",
+                "Contusion",
+                "Sir Duke",
+                "I Wish",
+                "Knocks Me Off My Feet",
+                "Pastime Paradise",
+                "Summer Soft",
+                "Ordinary Pain",
+                "Isn't She Lovely",
+                "Joy Inside My Tears",
+                "Black Man",
+                "Ngiculela-Es Una Historia-I Am Singing",
+                "If It's Magic",
+                "As",
+                "Another Star",
+                "Saturn",
+                "Ebony Eyes",
+                "All Day Sucker",
+                "Easy Goin' Evening (My Mama's Call)"
+            ],
+            "date": {
+                "month": "September",
+                "day": 28,
+                "year": 1976
+            }
+        },
+        {
+            "id": 10,
+            "artist": "Van Halen",
+            "title": "Van Halen",
+            "img_url": "",
+            "popularity": 79,
+            "tracks": [
+                "Runnin' With the Devil",
+                "Eruption",
+                "You Really Got Me",
+                "Ain't Talkin 'Bout Love",
+                "I'm The One",
+                "Jamie Cryin'",
+                "Atomic Punk",
+                "Feel Your Love Tonight",
+                "Little Dreamer",
+                "Ice Cream Man",
+                "On Fire"
+            ],
+            "date": {
+                "month": "February",
+                "day": 10,
+                "year": 1978
+            }
+        }
+    ]
+}
