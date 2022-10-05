@@ -4,10 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/src/stylesheet.css">
-    <title>Document</title>
+    <title>SpotAPI</title>
+    <link rel="stylesheet" href= src/stylesheet.css>
 </head>
 <body>
-    <script src="/src/index.js"></script>
+    <h1>LargeTunes</h1>
+    <!-- <img id="headphones"
+            src="headphones.png"> -->
+    <h2>Get info about your favorite artists:</h2>
+    <form id="form"> 
+        <input type="search" id="query" name="q" placeholder="Search...">
+        <button>Search</button>
+    </form>
+    <div id="container">
+        <img id="main-display" src="" alt="Album Image">
+        <!-- <h3 id="Title">Song Title:</h3> -->
+        <h3 id="artist-name">Artist:</h3>
+        <h3 id="album-title">Album:</h3>
+        <h3 id="release-date">Released:</h3>
+        <h3 id="popularity-score">Popularity Score:</h3>
+        <p id="track-list">
+
+        </p>
+    <form id="textarea" placeholder></form>
+    </div>
+    <div id="img-container">
+
+    </div>
+    <script src="src/index.js"></script>
 </body>
 </html>

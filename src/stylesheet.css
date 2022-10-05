@@ -1,0 +1,64 @@
+html {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+body {
+    border: thick double #1DB954;
+    border-radius: 10px;
+    margin: 0;
+    width: 960;
+    background-color: black;
+    opacity: 0.9;
+}
+
+h1 {
+    color: #1DB954;
+}
+
+h2 {
+    color: #1db954;
+}
+
+h3{
+    color: #1db954;
+}
+
+.responses {
+    text-align: left;
+}
+
+.img {
+    max-width: 50px;
+    max-height: 500px;
+    width: 50px;
+    height: auto;
+    
+}
+
+#query {
+    background-color: black;
+    color: #1DB954;
+    border-radius: 700px;
+    border-color: #ffffff;
+    height: 25px;
+    width: 200px;
+}
+
+button {
+    background-color: #1DB954;
+    color: #ffffff;
+    border-radius: 700px;
+    height: 25px;
+}
+
+.album-cover {
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+}
+
+#main-display {
+    border-radius: 8px;
+}
