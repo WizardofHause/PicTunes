@@ -16,3 +16,8 @@ Then, continue to build additional async code and frontend features.
 Continue building features one by one.
 
 
+OBJECTIVES:
+- Create a container for making "Favorites"
+- Append tracks to the main display
+- Automatically rank Favorites by popularity
+- Make Popularity dynamic and adjustable 

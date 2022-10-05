@@ -9,8 +9,7 @@ body {
     border-radius: 10px;
     margin: 0;
     width: 960;
-    background-color: black;
-    opacity: 0.9;
+    background-image: linear-gradient(purple, black)
 }
 
 h1 {
@@ -25,16 +24,9 @@ h3{
     color: #1db954;
 }
 
-.responses {
-    text-align: left;
-}
 
 .img {
-    max-width: 50px;
-    max-height: 500px;
-    width: 50px;
-    height: auto;
-    
+    max-width: 100%;
 }
 
 #query {
@@ -59,6 +51,40 @@ button {
     border-radius: 4px;
 }
 
+.album-cover:hover {
+    position: relative;
+    height: 110px;
+    width: 110px;
+}
+
 #main-display {
     border-radius: 8px;
+    height: 500px;
+    width: 500px;
+}
+
+#track-list {
+    color: #1DB954;
+    list-style-position: inside;
+    text-align: left;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#album-image {
+    flex-basis: 40%
+}
+#text-content {
+    font-size: 20px;
+    padding-left: 20px;
+}
+#album-title,
+.wanted {
+    color: green;
+}
+#title-head, #album-title {
+    display: inline;
 }

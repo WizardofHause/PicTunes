@@ -562,6 +562,121 @@
                 "day": 21,
                 "year": 1987
             }
+        },
+        {
+            "id": 21,
+            "artist": "U2",
+            "title": "The Joshua Tree",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-joshua-tree-1.jpg",
+            "popularity": 76,
+            "tracks": [
+                "Where the Streets Have No Name",
+                "I Still Haven't Found What I'm Looking For",
+                "With Or Without You",
+                "Bullet the Blue Sky",
+                "Running To Stand Still",
+                "Red Hill Mining Town",
+                "In God's Country",
+                "Trip Through Your Wires",
+                "One Tree Hill",
+                "Exit",
+                "Mothers of the Disappeared"
+            ],
+            "date": {
+                "month": "March",
+                "day": 9,
+                "year": 1987
+            }
+        },
+        {
+            "id": 22,
+            "artist": "2Pac",
+            "title": "All Eyez On Me",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/5767-all-eyez-on-me.jpg",
+            "popularity": 94,
+            "tracks": [
+                "Ambitionz Az a Ridah",
+                "All About U",
+                "Skandalouz",
+                "Got My Mind Made Up",
+                "How Do U Want It",
+                "2 of Amerikaz Most Wanted",
+                "No More Pain",
+                "Heartz of Men",
+                "Life Goes On",
+                "Only God Can Judge Me",
+                "Tradin' War Stories",
+                "California Love (Remix)",
+                "I Ain't Mad at Cha",
+                "What'z Ya Phone #",
+                "Can't C Me",
+                "Shorty Wanna Be a Thug",
+                "Holla at Me",
+                "Wonda Why They Call U Bitch",
+                "When We Ride",
+                "Thug Passion",
+                "Picture Me Rollin'",
+                "Check Out Time",
+                "Ratha Be Ya Nigga",
+                "All Eyez On Me",
+                "Run tha Streetz",
+                "Ain't Hard 2 Find",
+                "Heaven Ain't Hard 2 Find"
+            ],
+            "date": {
+                "month": "February",
+                "day": 13,
+                "year": 1996
+            }
+        },
+        {
+            "id": 23,
+            "artist": "The Beatles",
+            "title": "Sgt. Pepper's Lonely Hearts Club Band",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/sgt-peppers-lonely-hearts-club-band-1.jpg",
+            "popularity": 75,
+            "tracks": [
+                "Sgt. Pepper's Lonely Hearts Club Band",
+                "With a Little Help From My Friends",
+                "Lucy In the Sky with Diamonds",
+                "Getting Better",
+                "Fixing a Hole",
+                "She's Leaving Home",
+                "Being For the Benefit of Mr. Kite!",
+                "Within You Without You",
+                "When I'm Sixty-Four",
+                "Lovely Rita",
+                "Good Morning Good Morning",
+                "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+                "A Day In the Life"
+            ],
+            "date": {
+                "month": "June",
+                "day": 1,
+                "year": 1967
+            }
+        },
+        {
+            "id": 24,
+            "artist": "Led Zeppelin",
+            "title": "Houses of the Holy",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/houses-of-the-holy.jpg",
+            "popularity": 94,
+            "tracks": [
+                "The Song Remains the Same",
+                "The Rain Song",
+                "Over the Hills and Far Away",
+                "The Crunge",
+                "Dancing Days",
+                "D'yer Mak'er",
+                "No Quarter",
+                "The Ocean"
+            ],
+            "date": {
+                "month": "March",
+                "day": 28,
+                "year": 1973
+            }
         }
     ]
 }

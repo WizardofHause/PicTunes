@@ -1,36 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SpotAPI</title>
-    <link rel="stylesheet" href= src/stylesheet.css>
+    <title>PicTunes</title>
+    <link rel="stylesheet" href=src/stylesheet.css>
 </head>
+
 <body>
-    <h1>LargeTunes</h1>
+    <h1>PicTunes</h1>
     <!-- <img id="headphones"
             src="headphones.png"> -->
-    <h2>Get info about your favorite artists:</h2>
-    <form id="form"> 
-        <input type="search" id="query" name="q" placeholder="Search...">
-        <button>Search</button>
-    </form>
-    <div id="container">
-        <img id="main-display" src="" alt="Album Image">
-        <!-- <h3 id="Title">Song Title:</h3> -->
-        <h3 id="artist-name">Artist:</h3>
-        <h3 id="album-title">Album:</h3>
-        <h3 id="release-date">Released:</h3>
-        <h3 id="popularity-score">Popularity Score:</h3>
-        <p id="track-list">
-
-        </p>
-    <form id="textarea" placeholder></form>
-    </div>
+    <h2>Get info about your favorite albums:</h2>
     <div id="img-container">
 
     </div>
+    <form action="https://www.axs.com/search" method="get" id="form">
+        <input type="search" id="query" name="q" placeholder="  Search SeatGeek for shows...">
+        <button>Let's Boogie</button>
+    </form>
+    <div id="container">
+        <div class="album-image">
+            <img id="main-display" src="" alt="Album Image">
+        </div>
+        <div id="text-content">
+            <h3 id="artist-name" class="album-data">Artist:</h3>
+            <h3 id="title-head" class="album-data">Album:</h3>
+            <p id="album-title"></p>
+            <h3 id="release-date" class="album-data">Released:</h3>
+            <h3 id="popularity-score" class="album-data">Popularity Score:</h3>
+            <button id="want-that">ADD ALBUM TO WISHLIST</button>
+            <h3>Track List:</h3>
+            <ol id="track-list" class="album-data"></ol>
+        </div>
+    </div>
+    <div id="favorites-bar">
+        <h3>My Wishlist</h3>
+    </div>
     <script src="src/index.js"></script>
 </body>
+
 </html>
