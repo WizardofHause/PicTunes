@@ -1,706 +1,708 @@
 {
-    "albums": [
-        {
-            "id": 1,
-            "artist": "Prince and the Revolution",
-            "title": "Purple Rain",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/6376-purple-rain-1.jpg",
-            "popularity": 99,
-            "tracks": [
-                "Let's Go Crazy",
-                "Take Me With U",
-                "The Beautiful Ones",
-                "Computer Blue",
-                "Darling Nikki",
-                "When Doves Cry",
-                "I Would Die 4 U",
-                "Baby I'm a Star",
-                "PurpleRain"
-            ],
-            "date": {
-                "month": "June",
-                "day": 25,
-                "year": 1984
+  "albums": [
+      {
+          "id": 1,
+          "artist": "Prince and the Revolution",
+          "title": "Purple Rain",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/6376-purple-rain-1.jpg",
+          "popularity": 99,
+          "tracks": [
+              "Let's Go Crazy",
+              "Take Me With U",
+              "The Beautiful Ones",
+              "Computer Blue",
+              "Darling Nikki",
+              "When Doves Cry",
+              "I Would Die 4 U",
+              "Baby I'm a Star",
+              "PurpleRain"
+          ],
+          "date": {
+              "month": "June",
+              "day": 25,
+              "year": 1984
+          },
+              "color": "#871eef"
+      },
+      {
+          "id": 2,
+          "artist": "The Beatles",
+          "title": "Abbey Road",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/abbey-road-1.jpg",
+          "popularity": 90,
+          "tracks": [
+              "Come Together",
+              "Something",
+              "Maxwell's Silver Hammer",
+              "Oh! Darling",
+              "Octopus's Garden",
+              "I Want You (She's So Heavy)",
+              "Here Comes the Sun",
+              "Because",
+              "You Never Give Me Your Money",
+              "Sun King",
+              "Mean Mr Mustard",
+              "Polythene Pam",
+              "She Came In Through The Bathroom Window",
+              "Golden Slumbers",
+              "Carry That Weight",
+              "The End",
+              "Her Majesty"
+          ],
+          "date": {
+              "month": "September",
+              "day": 26,
+              "year": 1969
+          },
+              "color": "#87ecf3"
+      },
+      {
+          "id": 3,
+          "artist": "Led Zeppelin",
+          "title": "Led Zeppelin IV",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/led-zeppelin-iv.jpg",
+          "popularity": 91,
+          "tracks": [
+              "Black Dog",
+              "Rock and Roll",
+              "The Battle of Evermore",
+              "Stairway to Heaven",
+              "Misty Mountain Top",
+              "Four Sticks",
+              "Going to California",
+              "When the Levee Breaks"
+          ],
+          "date": {
+              "month": "February",
+              "day": 21,
+              "year": 1972
+          },
+              "color": "#a59a79"
+      },
+      {
+          "id": 4,
+          "artist": "Michael Jackson",
+          "title": "Thriller",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/6266-thriller-1.jpg",
+          "popularity": 89,
+          "tracks": [
+              "Wanna Be Startin' Somethin'",
+              "Baby Be Mine",
+              "The Girl Is Mine",
+              "Thriller",
+              "Beat It",
+              "Billie Jean",
+              "Human Nature",
+              "P.Y.T. (Pretty Young Thing)",
+              "The Lady in My Life"
+          ],
+          "date": {
+              "month": "November",
+              "day": 30,
+              "year": 1982
+          },
+              "color": "#cdab30"
+      },
+      {
+          "id": 5,
+          "artist": "Nirvana",
+          "title": "Nevermind",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/nevermind-1.jpg",
+          "popularity": 88,
+          "tracks": [
+              "Smells Like Teen Spirit",
+              "In Bloom",
+              "Come as You Are",
+              "Breed",
+              "Lithium",
+              "Polly",
+              "Territorial Pissings",
+              "Drain You",
+              "Lounge Act",
+              "Stay Away",
+              "On a Plain",
+              "Something in the Way",
+              "Endless, Nameless"
+          ],
+          "date": {
+              "month": "September",
+              "day": 24,
+              "year": 1991
+          },
+              "color": "0dd5e8"
+      },
+      {
+          "id": 6,
+          "artist": "TLC",
+          "title": "CrazySexyCool",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/8439-crazysexycool.jpg",
+          "popularity": 81,
+          "tracks": [
+              "Intro-Lude",
+              "Creep",
+              "Kick Your Game",
+              "Diggin' On You",
+              "Case Of The Fake People",
+              "CrazySexyCool",
+              "Red Light Special",
+              "Waterfalls",
+              "Intermission-Lude",
+              "Let's Do It Again",
+              "If I Was Your Girl Friend",
+              "Sexy",
+              "Take Our Time",
+              "Can I Get A Witness",
+              "Switch",
+              "Sumthin' Wicked This Way Comes"
+          ],
+          "date": {
+              "month": "November",
+              "day": 15,
+              "year": 1994
+          },
+              "color": "#ed3911"
+      },
+      {
+          "id": 7,
+          "artist": "Madonna",
+          "title": "Like a Virgin",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/6369-like-a-virgin.jpg",
+          "popularity": 74,
+          "tracks": [
+              "Material Girl",
+              "Angel",
+              "Like a Virgin",
+              "Over and Over",
+              "Love Don't Live Here Anymore",
+              "Dress You Up",
+              "Shoo-Bee-Doo",
+              "Pretender",
+              "Stay"
+          ],
+          "date": {
+              "month": "November",
+              "day": 12,
+              "year": 1984
+          },
+              "color": "#ab82dc"
+      },
+      {
+          "id": 8,
+          "artist": "Eminem",
+          "title": "The Marshall Mathers LP",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-marshall-mathers-lp-1.jpg",
+          "popularity": 84,
+          "tracks": [
+              "Public Service Announcement",
+              "Kill You",
+              "Stan",
+              "Paul (skit)",
+              "Who Knew",
+              "Steve Berman",
+              "The Way I Am",
+              "The Real Slim Shady",
+              "Remember Me?",
+              "I'm Back",
+              "Marshall Mathers",
+              "Ken Kaniff (skit)",
+              "Drug Ballad",
+              "Amityville",
+              "Bitch Please II",
+              "Kim",
+              "Under the Influence",
+              "Criminal"
+          ],
+          "date": {
+              "month": "May",
+              "day": 23,
+              "year": 2000
+          },
+              "color": "decd9b"
+      },
+      {
+          "id": 9,
+          "artist": "Stevie Wonder",
+          "title": "Songs in the Key of Life",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/songs-in-the-key-of-life-1.jpg",
+          "popularity": 92,
+          "tracks": [
+              "Love's In Need Of Love Today",
+              "Have A Talk With God",
+              "Village Ghetto Land",
+              "Contusion",
+              "Sir Duke",
+              "I Wish",
+              "Knocks Me Off My Feet",
+              "Pastime Paradise",
+              "Summer Soft",
+              "Ordinary Pain",
+              "Isn't She Lovely",
+              "Joy Inside My Tears",
+              "Black Man",
+              "Ngiculela-Es Una Historia-I Am Singing",
+              "If It's Magic",
+              "As",
+              "Another Star",
+              "Saturn",
+              "Ebony Eyes",
+              "All Day Sucker",
+              "Easy Goin' Evening (My Mama's Call)"
+          ],
+          "date": {
+              "month": "September",
+              "day": 28,
+              "year": 1976
+          }, 
+              "color": "f97b04"
+      },
+      {
+          "id": 10,
+          "artist": "Van Halen",
+          "title": "Van Halen",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/6078-van-halen.jpg",
+          "popularity": 79,
+          "tracks": [
+              "Runnin' With the Devil",
+              "Eruption",
+              "You Really Got Me",
+              "Ain't Talkin 'Bout Love",
+              "I'm The One",
+              "Jamie Cryin'",
+              "Atomic Punk",
+              "Feel Your Love Tonight",
+              "Little Dreamer",
+              "Ice Cream Man",
+              "On Fire"
+          ],
+          "date": {
+              "month": "February",
+              "day": 10,
+              "year": 1978
+          },
+              "color": "f90404"
+      },
+      {
+          "id": 11,
+          "artist": "Adele",
+          "title": "21",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/21.jpg",
+          "popularity": 78,
+          "tracks": [
+              "Rolling in the Deep",
+              "Rumour Has It",
+              "Turning Tables",
+              "Don't You Remember",
+              "Set Fire to the Rain",
+              "He Won't Go",
+              "Take It All",
+              "I'll Be Waiting",
+              "One and Only",
+              "Love Song",
+              "Someone Like You"
+          ],
+          "date": {
+              "month": "January",
+              "day": 24,
+              "year": 2011
+          },
+              "color": "#ffffff"
+      },
+      {
+          "id": 12,
+          "artist": "Pink Floyd",
+          "title": "The Wall",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-wall.jpg",
+          "popularity": 85,
+          "tracks": [
+              "In the Flesh?",
+              "The Thin Ice",
+              "Another Brick in the Wall, Part 1",
+              "The Happiest Days of Our Lives",
+              "Another Brick in the Wall, Part 2",
+              "Mother",
+              "Goodbye Blue Sky",
+              "Empty Spaces",
+              "Young Lust",
+              "One of My Turns",
+              "Don't Leave Me Now",
+              "Another Brick in the Wall, Part 3",
+              "Goodbye Cruel World",
+              "Hey You",
+              "Is There Anybody Out There?",
+              "Nobody Home",
+              "Vera",
+              "Bring the Boys Back Home",
+              "Comfortably Numb",
+              "The Show Must Go On",
+              "In the Flesh",
+              "Run Like Hell",
+              "Waiting for the Worms",
+              "Stop",
+              "The Trial",
+              "Outside the Wall"
+          ],
+          "date": {
+              "month": "November",
+              "day": 30,
+              "year": 1979
+          },
+              "color": "#ffffff"
+      },
+      {
+          "id": 13,
+          "artist": "Metallica",
+          "title": "Metallica",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/5560-metallica.jpg",
+          "popularity": 83,
+          "tracks": [
+              "Enter Sandman",
+              "Sad But True",
+              "Holier Than Thou",
+              "The Unforgiven",
+              "Wherever I May Roam",
+              "Don't Tread On Me",
+              "Through the Never",
+              "Nothing Else Matters",
+              "Of Wolf and Man",
+              "The God That Failed",
+              "My Friend of Misery",
+              "The Struggle Within"
+          ],
+          "date": {
+              "month": "August",
+              "day": 12,
+              "year": 1991
+          },
+              "color": "#726b6b"
+      },
+      {
+          "id": 14,
+          "artist": "Shania Twain",
+          "title": "Come On Over",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/27012-come-on-over.jpg",
+          "popularity": 80,
+          "tracks": [
+              "Man! I Feel Like A Woman!",
+              "I'm Holdin' On To Love (To Save My Life)",
+              "Love Gets Me Every Time",
+              "Don't Be Stupid (You Know I Love You)",
+              "From This Moment On",
+              "Come On Over",
+              "When",
+              "Whatever You Do! Don't!",
+              "If You Wanna Touch Her, Ask!",
+              "You're Still The One",
+              "Honey, I'm Home",
+              "That Don't Impress Me Much",
+              "Black Eyes, Blue Tears",
+              "I Won't Leave You Lonely",
+              "Rock This Country!",
+              "You've Got A Way"
+          ],
+          "date": {
+              "month": "November",
+              "day": 4,
+              "year": 1997
+          },
+              "color": "#880a0a"
+      },
+      {
+          "id": 15,
+          "artist": "The Notorious B.I.G.",
+          "title": "Life After Death",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/life-after-death.jpg",
+          "popularity": 86,
+          "tracks": [
+              "Life After Death (Intro)",
+              "Somebody's Gotta Die",
+              "Hypnotize",
+              "Kick In the Door",
+              "Fuck You Tonight",
+              "Last Day",
+              "I Love the Dough",
+              "What's Beef",
+              "B.I.G. (Interlude)",
+              "Mo Money Mo Problems",
+              "Niggas Bleed",
+              "I Got a Story To Tell",
+              "Notorious Thugs",
+              "Miss U",
+              "Another",
+              "Going Back to Cali",
+              "Ten Crack Commandments",
+              "Playa Hater",
+              "Nasty Boy",
+              "Sky's the Limit",
+              "The World Is Filled...",
+              "My Downfall",
+              "Long Kiss Goodnight",
+              "You're Nobody (Til Somebody Kills You)"
+          ],
+          "date": {
+              "month": "March",
+              "day": 25,
+              "year": 1997
+          },
+              "color": "#e0990b"
+      },
+      {
+          "id": 16,
+          "artist": "Beastie Boys",
+          "title": "Licensed to Ill",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/licensed-to-ill.jpg",
+          "popularity": 82,
+          "tracks": [
+              "Rhymin' and Stealin'",
+              "The New Style",
+              "She's Crafty",
+              "Posse in Effect",
+              "Slow Ride",
+              "Girls",
+              "Fight for Your Right",
+              "No Sleep Till Brooklyn",
+              "Paul Revere",
+              "Hold It Now, Hit It",
+              "Brass Monkey",
+              "Slow and Low",
+              "Time to Get Ill"
+          ],
+          "date": {
+              "month": "November",
+              "day": 15,
+              "year": 1986
+          },
+              "color": "#f9e290"
+      },
+      {
+          "id": 17,
+          "artist": "Green Day",
+          "title": "Dookie",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/dookie.jpg",
+          "popularity": 77,
+          "tracks": [
+              "Burnout",
+              "Having a Blast",
+              "Chump",
+              "Longview",
+              "Welcome to Paradise",
+              "Pulling Teeth",
+              "Basket Case",
+              "She",
+              "Sassafras Roots",
+              "When I Come Around",
+              "Coming Clean",
+              "Emenius Sleepus",
+              "In the End",
+              "F.O.D.",
+              "All By Myself"
+          ],
+          "date": {
+              "month": "February",
+              "day": 1,
+              "year": 1994
+          },
+              "color": "#9fc8f5"
+      },
+      {
+          "id": 18,
+          "artist": "Fleetwood Mac",
+          "title": "Rumours",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/rumours.jpg",
+          "popularity": 93,
+          "tracks": [
+              "Second Hand News",
+              "Dreams",
+              "Never Going Back Again",
+              "Don't Stop",
+              "Go Your Own Way",
+              "Songbird",
+              "The Chain",
+              "You Make Loving Fun",
+              "I Don't Want to Know",
+              "Oh Daddy",
+              "Gold Dust Woman"
+          ],
+          "date": {
+              "month": "February",
+              "day": 4,
+              "year": 1997
+          },
+              "color": "#f8f9b8"
+      },
+      {
+          "id": 19,
+          "artist": "Bruce Springsteen",
+          "title": "Born in the U.S.A.",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/born-in-the-usa.jpg",
+          "popularity": 87,
+          "tracks": [
+              "Born in the U.S.A.",
+              "Cover Me",
+              "Darlington County",
+              "Woking on the Highway",
+              "Downbound Train",
+              "I'm on Fire",
+              "No Surrender",
+              "Bobby Jean",
+              "I'm Goin' Down",
+              "Glory Days",
+              "Dancing in the Dark",
+              "My Hometown"
+          ],
+          "date": {
+              "month": "June",
+              "day": 4,
+              "year": 1984
+          },
+              "color": "#ff2727"
+      },
+      {
+          "id": 20,
+          "artist": "Guns N' Roses",
+          "title": "Appetite for Destruction",
+          "img_url": "https://cdn2.albumoftheyear.org/750x/album/appetite-for-destruction-1.jpg",
+          "popularity": 73,
+          "tracks": [
+              "Welcome to the Jungle",
+              "It's So Easy",
+              "Nightrain",
+              "Out ta Get Me",
+              "Mr. Brownstone",
+              "Paradise City",
+              "My Michelle",
+              "Think About You",
+              "Sweet Child O' Mine",
+              "You're Crazy",
+              "Anything Goes",
+              "Rocket Queen"
+          ],
+          "date": {
+              "month": "July",
+              "day": 21,
+              "year": 1987
+              },
+          "color": "#4a0094"
             },
-            "wish_list": false
-        },
-        {
-            "id": 2,
-            "artist": "The Beatles",
-            "title": "Abbey Road",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/abbey-road-1.jpg",
-            "popularity": 90,
-            "tracks": [
-                "Come Together",
-                "Something",
-                "Maxwell's Silver Hammer",
-                "Oh! Darling",
-                "Octopus's Garden",
-                "I Want You (She's So Heavy)",
-                "Here Comes the Sun",
-                "Because",
-                "You Never Give Me Your Money",
-                "Sun King",
-                "Mean Mr Mustard",
-                "Polythene Pam",
-                "She Cam In Through The Bathroom Window",
-                "Golden Slumbers",
-                "Carry That Weight",
-                "The End",
-                "Her Majesty"
-            ],
-            "date": {
-                "month": "September",
-                "day": 26,
-                "year": 1969
+            
+              {
+                "id": 21,
+                "artist": "U2",
+                "title": "The Joshua Tree",
+                "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-joshua-tree-1.jpg",
+                "popularity": 76,
+                "tracks": [
+                    "Where the Streets Have No Name",
+                    "I Still Haven't Found What I'm Looking For",
+                    "With Or Without You",
+                    "Bullet the Blue Sky",
+                    "Running To Stand Still",
+                    "Red Hill Mining Town",
+                    "In God's Country",
+                    "Trip Through Your Wires",
+                    "One Tree Hill",
+                    "Exit",
+                    "Mothers of the Disappeared"
+                ],
+                "date": {
+                    "month": "March",
+                    "day": 9,
+                    "year": 1987
+                },
+                    "color": "#000000"
             },
-            "wish_list": false
-        },
-        {
-            "id": 3,
-            "artist": "Led Zeppelin",
-            "title": "Led Zeppelin IV",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/led-zeppelin-iv.jpg",
-            "popularity": 91,
-            "tracks": [
-                "Black Dog",
-                "Rock and Roll",
-                "The Battle of Evermore",
-                "Stairway to Heaven",
-                "Misty Mountain Top",
-                "Four Sticks",
-                "Going to California",
-                "When the Levee Breaks"
-            ],
-            "date": {
-                "month": "February",
-                "day": 21,
-                "year": 1972
+            {
+                "id": 22,
+                "artist": "2Pac",
+                "title": "All Eyez On Me",
+                "img_url": "https://cdn2.albumoftheyear.org/750x/album/5767-all-eyez-on-me.jpg",
+                "popularity": 94,
+                "tracks": [
+                    "Ambitionz Az a Ridah",
+                    "All About U",
+                    "Skandalouz",
+                    "Got My Mind Made Up",
+                    "How Do U Want It",
+                    "2 of Amerikaz Most Wanted",
+                    "No More Pain",
+                    "Heartz of Men",
+                    "Life Goes On",
+                    "Only God Can Judge Me",
+                    "Tradin' War Stories",
+                    "California Love (Remix)",
+                    "I Ain't Mad at Cha",
+                    "What'z Ya Phone #",
+                    "Can't C Me",
+                    "Shorty Wanna Be a Thug",
+                    "Holla at Me",
+                    "Wonda Why They Call U Bitch",
+                    "When We Ride",
+                    "Thug Passion",
+                    "Picture Me Rollin'",
+                    "Check Out Time",
+                    "Ratha Be Ya Nigga",
+                    "All Eyez On Me",
+                    "Run tha Streetz",
+                    "Ain't Hard 2 Find",
+                    "Heaven Ain't Hard 2 Find"
+                ],
+                "date": {
+                    "month": "February",
+                    "day": 13,
+                    "year": 1996
+                },
+                    "color": "#692f00"
             },
-            "wish_list": false
-        },
-        {
-            "id": 4,
-            "artist": "Michael Jackson",
-            "title": "Thriller",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/6266-thriller-1.jpg",
-            "popularity": 89,
-            "tracks": [
-                "Wanna Be Startin' Somethin'",
-                "Baby Be Mine",
-                "The Girl Is Mine",
-                "Thriller",
-                "Beat It",
-                "Billie Jean",
-                "Human Nature",
-                "P.Y.T. (Pretty Young Thing)",
-                "The Lady in My Life"
-            ],
-            "date": {
-                "month": "November",
-                "day": 30,
-                "year": 1982
+            {
+                "id": 23,
+                "artist": "The Beatles",
+                "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                "img_url": "https://cdn2.albumoftheyear.org/750x/album/sgt-peppers-lonely-hearts-club-band-1.jpg",
+                "popularity": 75,
+                "tracks": [
+                    "Sgt. Pepper's Lonely Hearts Club Band",
+                    "With a Little Help From My Friends",
+                    "Lucy In the Sky with Diamonds",
+                    "Getting Better",
+                    "Fixing a Hole",
+                    "She's Leaving Home",
+                    "Being For the Benefit of Mr. Kite!",
+                    "Within You Without You",
+                    "When I'm Sixty-Four",
+                    "Lovely Rita",
+                    "Good Morning Good Morning",
+                    "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+                    "A Day In the Life"
+                ],
+                "date": {
+                    "month": "June",
+                    "day": 1,
+                    "year": 1967
+                },
+                    "color": "#60d4fe"
             },
-            "wish_list": false
-        },
-        {
-            "id": 5,
-            "artist": "Nirvana",
-            "title": "Nevermind",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/nevermind-1.jpg",
-            "popularity": 88,
-            "tracks": [
-                "Smells Like Teen Spirit",
-                "In Bloom",
-                "Come as You Are",
-                "Breed",
-                "Lithium",
-                "Polly",
-                "Territorial Pissings",
-                "Drain You",
-                "Lounge Act",
-                "Stay Away",
-                "On a Plain",
-                "Something in the Way",
-                "Endless, Nameless"
-            ],
-            "date": {
-                "month": "September",
-                "day": 24,
-                "year": 1991
-            },
-            "wish_list": false
-        },
-        {
-            "id": 6,
-            "artist": "TLC",
-            "title": "CrazySexyCool",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/8439-crazysexycool.jpg",
-            "popularity": 81,
-            "tracks": [
-                "Intro-Lude",
-                "Creep",
-                "Kick Your Game",
-                "Diggin' On You",
-                "Case Of The Fake People",
-                "CrazySexyCool",
-                "Red Light Special",
-                "Waterfalls",
-                "Intermission-Lude",
-                "Let's Do It Again",
-                "If I Was Your Girl Friend",
-                "Sexy",
-                "Take Our Time",
-                "Can I Get A Witness",
-                "Switch",
-                "Sumthin' Wicked This Way Comes"
-            ],
-            "date": {
-                "month": "November",
-                "day": 15,
-                "year": 1994
-            },
-            "wish_list": false
-        },
-        {
-            "id": 7,
-            "artist": "Madonna",
-            "title": "Like a Virgin",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/6369-like-a-virgin.jpg",
-            "popularity": 74,
-            "tracks": [
-                "Material Girl",
-                "Angel",
-                "Like a Virgin",
-                "Over and Over",
-                "Love Don't Live Here Anymore",
-                "Dress You Up",
-                "Shoo-Bee-Doo",
-                "Pretender",
-                "Stay"
-            ],
-            "date": {
-                "month": "November",
-                "day": 12,
-                "year": 1984
-            },
-            "wish_list": false
-        },
-        {
-            "id": 8,
-            "artist": "Eminem",
-            "title": "The Marshall Mathers LP",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-marshall-mathers-lp-1.jpg",
-            "popularity": 84,
-            "tracks": [
-                "Public Service Announcement",
-                "Kill You",
-                "Stan",
-                "Paul (skit)",
-                "Who Knew",
-                "Steve Berman",
-                "The Way I Am",
-                "The Real Slim Shady",
-                "Remember Me?",
-                "I'm Back",
-                "Marshall Mathers",
-                "Ken Kaniff (skit)",
-                "Drug Ballad",
-                "Amityville",
-                "Bitch Please II",
-                "Kim",
-                "Under the Influence",
-                "Criminal"
-            ],
-            "date": {
-                "month": "May",
-                "day": 23,
-                "year": 2000
-            },
-            "wish_list": false
-        },
-        {
-            "id": 9,
-            "artist": "Stevie Wonder",
-            "title": "Songs in the Key of Life",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/songs-in-the-key-of-life-1.jpg",
-            "popularity": 92,
-            "tracks": [
-                "Love's In Need Of Love Today",
-                "Have A Talk With God",
-                "Village Ghetto Land",
-                "Contusion",
-                "Sir Duke",
-                "I Wish",
-                "Knocks Me Off My Feet",
-                "Pastime Paradise",
-                "Summer Soft",
-                "Ordinary Pain",
-                "Isn't She Lovely",
-                "Joy Inside My Tears",
-                "Black Man",
-                "Ngiculela-Es Una Historia-I Am Singing",
-                "If It's Magic",
-                "As",
-                "Another Star",
-                "Saturn",
-                "Ebony Eyes",
-                "All Day Sucker",
-                "Easy Goin' Evening (My Mama's Call)"
-            ],
-            "date": {
-                "month": "September",
-                "day": 28,
-                "year": 1976
-            },
-            "wish_list": false
-        },
-        {
-            "id": 10,
-            "artist": "Van Halen",
-            "title": "Van Halen",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/6078-van-halen.jpg",
-            "popularity": 79,
-            "tracks": [
-                "Runnin' With the Devil",
-                "Eruption",
-                "You Really Got Me",
-                "Ain't Talkin 'Bout Love",
-                "I'm The One",
-                "Jamie Cryin'",
-                "Atomic Punk",
-                "Feel Your Love Tonight",
-                "Little Dreamer",
-                "Ice Cream Man",
-                "On Fire"
-            ],
-            "date": {
-                "month": "February",
-                "day": 10,
-                "year": 1978
-            },
-            "wish_list": false
-        },
-        {
-            "id": 11,
-            "artist": "Adele",
-            "title": "21",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/21.jpg",
-            "popularity": 78,
-            "tracks": [
-                "Rolling in the Deep",
-                "Rumour Has It",
-                "Turning Tables",
-                "Don't You Remember",
-                "Set Fire to the Rain",
-                "He Won't Go",
-                "Take It All",
-                "I'll Be Waiting",
-                "One and Only",
-                "Love Song",
-                "Someone Like You"
-            ],
-            "date": {
-                "month": "January",
-                "day": 24,
-                "year": 2011
-            },
-            "wish_list": false
-        },
-        {
-            "id": 12,
-            "artist": "Pink Floyd",
-            "title": "The Wall",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-wall.jpg",
-            "popularity": 85,
-            "tracks": [
-                "In the Flesh?",
-                "The Thin Ice",
-                "Another Brick in the Wall, Part 1",
-                "The Happiest Days of Our Lives",
-                "Another Brick in the Wall, Part 2",
-                "Mother",
-                "Goodbye Blue Sky",
-                "Empty Spaces",
-                "Young Lust",
-                "One of My Turns",
-                "Don't Leave Me Now",
-                "Another Brick in the Wall, Part 3",
-                "Goodbye Cruel World",
-                "Hey You",
-                "Is There Anybody Out There?",
-                "Nobody Home",
-                "Vera",
-                "Bring the Boys Back Home",
-                "Comfortably Numb",
-                "The Show Must Go On",
-                "In the Flesh",
-                "Run Like Hell",
-                "Waiting for the Worms",
-                "Stop",
-                "The Trial",
-                "Outside the Wall"
-            ],
-            "date": {
-                "month": "November",
-                "day": 30,
-                "year": 1979
-            },
-            "wish_list": false
-        },
-        {
-            "id": 13,
-            "artist": "Metallica",
-            "title": "Metallica",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/5560-metallica.jpg",
-            "popularity": 83,
-            "tracks": [
-                "Enter Sandman",
-                "Sad But True",
-                "Holier Than Thou",
-                "The Unforgiven",
-                "Wherever I May Roam",
-                "Don't Tread On Me",
-                "Through the Never",
-                "Nothing Else Matters",
-                "Of Wolf and Man",
-                "The God That Failed",
-                "My Friend of Misery",
-                "The Struggle Within"
-            ],
-            "date": {
-                "month": "August",
-                "day": 12,
-                "year": 1991
-            },
-            "wish_list": false
-        },
-        {
-            "id": 14,
-            "artist": "Shania Twain",
-            "title": "Come On Over",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/27012-come-on-over.jpg",
-            "popularity": 80,
-            "tracks": [
-                "Man! I Feel Like A Woman!",
-                "I'm Holdin' On To Love (To Save My Life)",
-                "Love Gets Me Every Time",
-                "Don't Be Stupid (You Know I Love You)",
-                "From This Moment On",
-                "Come On Over",
-                "When",
-                "Whatever You Do! Don't!",
-                "If You Wanna Touch Her, Ask!",
-                "You're Still The One",
-                "Honey, I'm Home",
-                "That Don't Impress Me Much",
-                "Black Eyes, Blue Tears",
-                "I Won't Leave You Lonely",
-                "Rock This Country!",
-                "You've Got A Way"
-            ],
-            "date": {
-                "month": "November",
-                "day": 4,
-                "year": 1997
-            },
-            "wish_list": false
-        },
-        {
-            "id": 15,
-            "artist": "The Notorious B.I.G.",
-            "title": "Life After Death",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/life-after-death.jpg",
-            "popularity": 86,
-            "tracks": [
-                "Life After Death (Intro)",
-                "Somebody's Gotta Die",
-                "Hypnotize",
-                "Kick In the Door",
-                "Fuck You Tonight",
-                "Last Day",
-                "I Love the Dough",
-                "What's Beef",
-                "B.I.G. (Interlude)",
-                "Mo Money Mo Problems",
-                "Niggas Bleed",
-                "I Got a Story To Tell",
-                "Notorious Thugs",
-                "Miss U",
-                "Another",
-                "Going Back to Cali",
-                "Ten Crack Commandments",
-                "Playa Hater",
-                "Nasty Boy",
-                "Sky's the Limit",
-                "The World Is Filled...",
-                "My Downfall",
-                "Long Kiss Goodnight",
-                "You're Nobody (Til Somebody Kills You)"
-            ],
-            "date": {
-                "month": "March",
-                "day": 25,
-                "year": 1997
-            },
-            "wish_list": false
-        },
-        {
-            "id": 16,
-            "artist": "Beastie Boys",
-            "title": "Licensed to Ill",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/licensed-to-ill.jpg",
-            "popularity": 82,
-            "tracks": [
-                "Rhymin' and Stealin'",
-                "The New Style",
-                "She's Crafty",
-                "Posse in Effect",
-                "Slow Ride",
-                "Girls",
-                "Fight for Your Right",
-                "No Sleep Till Brooklyn",
-                "Paul Revere",
-                "Hold It Now, Hit It",
-                "Brass Monkey",
-                "Slow and Low",
-                "Time to Get Ill"
-            ],
-            "date": {
-                "month": "November",
-                "day": 15,
-                "year": 1986
-            },
-            "wish_list": false
-        },
-        {
-            "id": 17,
-            "artist": "Green Day",
-            "title": "Dookie",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/dookie.jpg",
-            "popularity": 77,
-            "tracks": [
-                "Burnout",
-                "Having a Blast",
-                "Chump",
-                "Longview",
-                "Welcome to Paradise",
-                "Pulling Teeth",
-                "Basket Case",
-                "She",
-                "Sassafras Roots",
-                "When I Come Around",
-                "Coming Clean",
-                "Emenius Sleepus",
-                "In the End",
-                "F.O.D.",
-                "All By Myself"
-            ],
-            "date": {
-                "month": "February",
-                "day": 1,
-                "year": 1994
-            },
-            "wish_list": false
-        },
-        {
-            "id": 18,
-            "artist": "Fleetwood Mac",
-            "title": "Rumours",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/rumours.jpg",
-            "popularity": 93,
-            "tracks": [
-                "Second Hand News",
-                "Dreams",
-                "Never Going Back Again",
-                "Don't Stop",
-                "Go Your Own Way",
-                "Songbird",
-                "The Chain",
-                "You Make Loving Fun",
-                "I Don't Want to Know",
-                "Oh Daddy",
-                "Gold Dust Woman"
-            ],
-            "date": {
-                "month": "February",
-                "day": 4,
-                "year": 1997
-            },
-            "wish_list": false
-        },
-        {
-            "id": 19,
-            "artist": "Bruce Springsteen",
-            "title": "Born in the U.S.A.",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/born-in-the-usa.jpg",
-            "popularity": 87,
-            "tracks": [
-                "Born in the U.S.A.",
-                "Cover Me",
-                "Darlington County",
-                "Woking on the Highway",
-                "Downbound Train",
-                "I'm on Fire",
-                "No Surrender",
-                "Bobby Jean",
-                "I'm Goin' Down",
-                "Glory Days",
-                "Dancing in the Dark",
-                "My Hometown"
-            ],
-            "date": {
-                "month": "June",
-                "day": 4,
-                "year": 1984
-            },
-            "wish_list": false
-        },
-        {
-            "id": 20,
-            "artist": "Guns N' Roses",
-            "title": "Appetite for Destruction",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/appetite-for-destruction-1.jpg",
-            "popularity": 73,
-            "tracks": [
-                "Welcome to the Jungle",
-                "It's So Easy",
-                "Nightrain",
-                "Out ta Get Me",
-                "Mr. Brownstone",
-                "Paradise City",
-                "My Michelle",
-                "Think About You",
-                "Sweet Child O' Mine",
-                "You're Crazy",
-                "Anything Goes",
-                "Rocket Queen"
-            ],
-            "date": {
-                "month": "July",
-                "day": 21,
-                "year": 1987
-            },
-            "wish_list": false
-        },
-        {
-            "id": 21,
-            "artist": "U2",
-            "title": "The Joshua Tree",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/the-joshua-tree-1.jpg",
-            "popularity": 76,
-            "tracks": [
-                "Where the Streets Have No Name",
-                "I Still Haven't Found What I'm Looking For",
-                "With Or Without You",
-                "Bullet the Blue Sky",
-                "Running To Stand Still",
-                "Red Hill Mining Town",
-                "In God's Country",
-                "Trip Through Your Wires",
-                "One Tree Hill",
-                "Exit",
-                "Mothers of the Disappeared"
-            ],
-            "date": {
-                "month": "March",
-                "day": 9,
-                "year": 1987
-            },
-            "wish_list": false
-        },
-        {
-            "id": 22,
-            "artist": "2Pac",
-            "title": "All Eyez On Me",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/5767-all-eyez-on-me.jpg",
-            "popularity": 94,
-            "tracks": [
-                "Ambitionz Az a Ridah",
-                "All About U",
-                "Skandalouz",
-                "Got My Mind Made Up",
-                "How Do U Want It",
-                "2 of Amerikaz Most Wanted",
-                "No More Pain",
-                "Heartz of Men",
-                "Life Goes On",
-                "Only God Can Judge Me",
-                "Tradin' War Stories",
-                "California Love (Remix)",
-                "I Ain't Mad at Cha",
-                "What'z Ya Phone #",
-                "Can't C Me",
-                "Shorty Wanna Be a Thug",
-                "Holla at Me",
-                "Wonda Why They Call U Bitch",
-                "When We Ride",
-                "Thug Passion",
-                "Picture Me Rollin'",
-                "Check Out Time",
-                "Ratha Be Ya Nigga",
-                "All Eyez On Me",
-                "Run tha Streetz",
-                "Ain't Hard 2 Find",
-                "Heaven Ain't Hard 2 Find"
-            ],
-            "date": {
-                "month": "February",
-                "day": 13,
-                "year": 1996
-            },
-            "wish_list": false
-        },
-        {
-            "id": 23,
-            "artist": "The Beatles",
-            "title": "Sgt. Pepper's Lonely Hearts Club Band",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/sgt-peppers-lonely-hearts-club-band-1.jpg",
-            "popularity": 75,
-            "tracks": [
-                "Sgt. Pepper's Lonely Hearts Club Band",
-                "With a Little Help From My Friends",
-                "Lucy In the Sky with Diamonds",
-                "Getting Better",
-                "Fixing a Hole",
-                "She's Leaving Home",
-                "Being For the Benefit of Mr. Kite!",
-                "Within You Without You",
-                "When I'm Sixty-Four",
-                "Lovely Rita",
-                "Good Morning Good Morning",
-                "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
-                "A Day In the Life"
-            ],
-            "date": {
-                "month": "June",
-                "day": 1,
-                "year": 1967
-            },
-            "wish_list": false
-        },
-        {
-            "id": 24,
-            "artist": "Led Zeppelin",
-            "title": "Houses of the Holy",
-            "img_url": "https://cdn2.albumoftheyear.org/750x/album/houses-of-the-holy.jpg",
-            "popularity": 94,
-            "tracks": [
-                "The Song Remains the Same",
-                "The Rain Song",
-                "Over the Hills and Far Away",
-                "The Crunge",
-                "Dancing Days",
-                "D'yer Mak'er",
-                "No Quarter",
-                "The Ocean"
-            ],
-            "date": {
-                "month": "March",
-                "day": 28,
-                "year": 1973
-            },
-            "wish_list": false
-        }
-    ]
+            {
+                "id": 24,
+                "artist": "Led Zeppelin",
+                "title": "Houses of the Holy",
+                "img_url": "https://cdn2.albumoftheyear.org/750x/album/houses-of-the-holy.jpg",
+                "popularity": 94,
+                "tracks": [
+                    "The Song Remains the Same",
+                    "The Rain Song",
+                    "Over the Hills and Far Away",
+                    "The Crunge",
+                    "Dancing Days",
+                    "D'yer Mak'er",
+                    "No Quarter",
+                    "The Ocean"
+                ],
+                "date": {
+                    "month": "March",
+                    "day": 28,
+                    "year": 1973
+                },
+                    "color": "#60d4fe"
+                "wish_list": false
+      }
+  ]
 }
