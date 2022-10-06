@@ -1,15 +1,13 @@
-html {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
 body {
     background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+    font-family: 'Bebas Neue', sans-serif;
+
 }
 
 h1,
 h2 {
     text-align: center;
-    color: #1DB954;
+    color: #ffffff;
 }
 
 #img-container {
@@ -21,17 +19,17 @@ h2 {
 }
 
 h3 {
-    color: #1db954;
+    color: #ffffff;
 }
 
 #popularity-form {
-    color: #1DB954;
+    color: #ffffff;
 }
 
 #pop-score,
 #query {
     background-color: black;
-    color: #1DB954;
+    color: #ffffff;
     border-radius: 700px;
     border-color: #ffffff;
     height: 25px;
@@ -40,7 +38,7 @@ h3 {
 
 #update-button,
 button {
-    background-color: #1DB954;
+    background-color: #00c8ff;
     color: #ffffff;
     border-radius: 700px;
     height: 25px;
@@ -50,7 +48,7 @@ button {
 .track,
 .wished,
 #score {
-    color: #1DB954;
+    color: #ffffff;
 }
 
 #title-head,
