@@ -2,7 +2,7 @@ let albumData;
 let currentAlbum;
 
 //FETCHES DATA AFTER FONTS LOAD
-document.addEventListener('DOMContentLoaded', (event) => {
+//document.addEventListener('DOMContentLoaded', (event) => {
 fetch("http://localhost:3000/albums")
   .then(response => response.json())
   .then(json => {
@@ -15,7 +15,7 @@ fetch("http://localhost:3000/albums")
     engagePopularityForm()
     engageResetButton()
   });
-});
+//});
 //CREATES ICONS FOR ALBUMS IN THE IMG-CONTAINER DIV
 function makeIcons(album) {
   let albumContainer = document.querySelector('#img-container')
