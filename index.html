@@ -15,30 +15,59 @@
             src="headphones.png"> -->
     <h2>Get info about your favorite albums:</h2>
     <div id="img-container">
-
+        <!-- IMAGE NAV BAR GOES HERE : CLASS = 'ALBUM-COVER' -->
     </div>
-    <form action="https://www.axs.com/search" method="get" id="form">
-        <input type="search" id="query" name="q" placeholder="  Search SeatGeek for shows...">
-        <button>Let's Boogie</button>
-    </form>
     <div id="container">
-        <div class="album-image">
+        <div class="main-image">
             <img id="main-display" src="" alt="Album Image">
         </div>
         <div id="text-content">
-            <h3 id="artist-name" class="album-data">Artist:</h3>
+            <h2 id="artist-name" class="album-data">Artist:</h2>
             <h3 id="title-head" class="album-data">Album:</h3>
             <p id="album-title"></p>
             <h3 id="release-date" class="album-data">Released:</h3>
             <h3 id="popularity-score" class="album-data">Popularity Score:</h3>
-            <button id="want-that">ADD ALBUM TO WISHLIST</button>
+            <p id="score"></p>
+            <br>
+            <br>
+            <form id="popularity-form">
+                <input type="text" placeholder="Change Popularity Score" id="pop-score" name="score">
+                <input type="submit" value="UPDATE" id="update-button">
+            </form>
+            <button id="reset-button">RESET</button>
             <h3>Track List:</h3>
             <ol id="track-list" class="album-data"></ol>
         </div>
+        <div id="wish-container">
+            <h3>My Wishlist</h3>
+            <button id="wish-button">ADD TO WISHLIST</button>
+            <ul id="wish-list">
+
+            </ul>
+            <br>
+            <br>
+            <br>
+            <form action="https://www.axs.com/search" method="get" id="form">
+                <input type="search" id="query" name="q" placeholder="  Search for events nearby...">
+                <button>Let's Boogie</button>
+            </form>
+        </div>
     </div>
-    <div id="favorites-bar">
-        <h3>My Wishlist</h3>
-    </div>
+    <!-- <form id="new-album-form">
+        <label for="artist-input">Artist:</label>
+        <input type="text" name="artist-input">
+
+        <label for="album-title-input">Title:</label>
+        <input type="text" name="album-title-input">
+
+        <label for="album-title-input">Released</label>
+        <input type="text" name="album-title-input">
+  
+        <label for="album-image-input">New Album Image URL:</label>
+        <input type="text" name="album-image-input">
+  
+        <input type="submit" value="Create Duck">
+      </form> -->
     <script src="src/index.js"></script>
 </body>
 

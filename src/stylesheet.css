@@ -1,34 +1,31 @@
 html {
-    text-align: center;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 body {
-    border: thick double #1DB954;
-    border-radius: 10px;
-    margin: 0;
-    width: 960;
-    background-image: linear-gradient(purple, black)
+    background-image: linear-gradient(purple, black);
 }
 
-h1 {
+h1,
+h2 {
+    text-align: center;
     color: #1DB954;
 }
 
-h2 {
+#img-container {
+    display: block;
+    padding: 0 4px;
+}
+
+h3 {
     color: #1db954;
 }
 
-h3{
-    color: #1db954;
+#popularity-form {
+    color: #1DB954;
 }
 
-
-.img {
-    max-width: 100%;
-}
-
+#pop-score,
 #query {
     background-color: black;
     color: #1DB954;
@@ -38,6 +35,7 @@ h3{
     width: 200px;
 }
 
+#update-button,
 button {
     background-color: #1DB954;
     color: #ffffff;
@@ -45,46 +43,88 @@ button {
     height: 25px;
 }
 
-.album-cover {
-    height: 100px;
-    width: 100px;
-    border-radius: 4px;
+#album-title,
+.track,
+.wished,
+#score {
+    color: green;
 }
 
-.album-cover:hover {
-    position: relative;
-    height: 110px;
-    width: 110px;
+#title-head,
+#album-title {
+    display: inline;
+}
+
+#container {
+    display: flex;
+    justify-content: left;
+    padding-left: 2%;
+}
+
+#text-content,
+#track-list {
+    font-size: 20px;
+    padding-left: 20px;
+    text-align: left;
 }
 
 #main-display {
     border-radius: 8px;
     height: 500px;
     width: 500px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+    vertical-align: top;
 }
 
-#track-list {
-    color: #1DB954;
-    list-style-position: inside;
-    text-align: left;
+.album-cover {
+    height: 100px;
+    width: 100px;
+    border-radius: 4px;
+    flex: 50%;
+    padding: 0 4px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
 }
 
-#container {
+.album-cover img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+.album-cover:hover {
+    position: relative;
+    height: 110px;
+    width: 110px;
+    transition: 300ms;
+}
+
+.main-image {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 1%;
 }
-#album-image {
-    flex-basis: 40%
-}
-#text-content {
-    font-size: 20px;
-    padding-left: 20px;
-}
+
+#title-head,
 #album-title,
-.wanted {
-    color: green;
-}
-#title-head, #album-title {
+#wish-list {
     display: inline;
+}
+
+body {
+    background-image: linear-gradient(purple, black)
+}
+
+#wish-container {
+    vertical-align: top;
+    padding-left: 5%;
+    padding-top: 0.5%;
+}
+
+#popularity-score,
+#score {
+    display: inline;
+}
+
+#popularity-form {
+    display: block;
 }

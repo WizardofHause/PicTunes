@@ -21,7 +21,8 @@
                 "month": "June",
                 "day": 25,
                 "year": 1984
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 2,
@@ -52,7 +53,8 @@
                 "month": "September",
                 "day": 26,
                 "year": 1969
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 3,
@@ -74,7 +76,8 @@
                 "month": "February",
                 "day": 21,
                 "year": 1972
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 4,
@@ -97,7 +100,8 @@
                 "month": "November",
                 "day": 30,
                 "year": 1982
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 5,
@@ -124,7 +128,8 @@
                 "month": "September",
                 "day": 24,
                 "year": 1991
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 6,
@@ -154,7 +159,8 @@
                 "month": "November",
                 "day": 15,
                 "year": 1994
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 7,
@@ -177,7 +183,8 @@
                 "month": "November",
                 "day": 12,
                 "year": 1984
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 8,
@@ -209,7 +216,8 @@
                 "month": "May",
                 "day": 23,
                 "year": 2000
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 9,
@@ -244,7 +252,8 @@
                 "month": "September",
                 "day": 28,
                 "year": 1976
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 10,
@@ -269,7 +278,8 @@
                 "month": "February",
                 "day": 10,
                 "year": 1978
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 11,
@@ -294,7 +304,8 @@
                 "month": "January",
                 "day": 24,
                 "year": 2011
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 12,
@@ -334,7 +345,8 @@
                 "month": "November",
                 "day": 30,
                 "year": 1979
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 13,
@@ -360,7 +372,8 @@
                 "month": "August",
                 "day": 12,
                 "year": 1991
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 14,
@@ -390,7 +403,8 @@
                 "month": "November",
                 "day": 4,
                 "year": 1997
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 15,
@@ -428,7 +442,8 @@
                 "month": "March",
                 "day": 25,
                 "year": 1997
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 16,
@@ -455,7 +470,8 @@
                 "month": "November",
                 "day": 15,
                 "year": 1986
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 17,
@@ -484,7 +500,8 @@
                 "month": "February",
                 "day": 1,
                 "year": 1994
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 18,
@@ -509,7 +526,8 @@
                 "month": "February",
                 "day": 4,
                 "year": 1997
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 19,
@@ -535,7 +553,8 @@
                 "month": "June",
                 "day": 4,
                 "year": 1984
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 20,
@@ -561,7 +580,8 @@
                 "month": "July",
                 "day": 21,
                 "year": 1987
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 21,
@@ -586,7 +606,8 @@
                 "month": "March",
                 "day": 9,
                 "year": 1987
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 22,
@@ -627,7 +648,8 @@
                 "month": "February",
                 "day": 13,
                 "year": 1996
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 23,
@@ -654,7 +676,8 @@
                 "month": "June",
                 "day": 1,
                 "year": 1967
-            }
+            },
+            "wish_list": false
         },
         {
             "id": 24,
@@ -676,7 +699,8 @@
                 "month": "March",
                 "day": 28,
                 "year": 1973
-            }
+            },
+            "wish_list": false
         }
     ]
 }
