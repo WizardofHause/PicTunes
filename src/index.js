@@ -1,8 +1,8 @@
 let albumData;
 let currentAlbum;
 
-window.addEventListener('DOMContentLoaded', () => {
-//FETCHES DATA
+//FETCHES DATA AFTER FONTS LOAD
+document.addEventListener('DOMContentLoaded', (event) => {
 fetch("http://localhost:3000/albums")
   .then(response => response.json())
   .then(json => {

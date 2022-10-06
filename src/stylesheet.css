@@ -13,6 +13,7 @@ h2 {
 #img-container {
     display: inline-block;
     justify-content: center;
+    text-align: center;
 }
 
 h3 {
