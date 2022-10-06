@@ -1,6 +1,7 @@
 let albumData;
 let currentAlbum;
 
+window.addEventListener('DOMContentLoaded', () => {
 //FETCHES DATA
 fetch("http://localhost:3000/albums")
   .then(response => response.json())
@@ -14,7 +15,7 @@ fetch("http://localhost:3000/albums")
     engagePopularityForm()
     engageResetButton()
   });
-
+});
 //CREATES ICONS FOR ALBUMS IN THE IMG-CONTAINER DIV
 function makeIcons(album) {
   let albumContainer = document.querySelector('#img-container')
