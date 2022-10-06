@@ -16,7 +16,4 @@ Continue building features one by one.
 
 
 OBJECTIVES:
-- Create a container for making "Favorites"
-- Append tracks to the main display
 - Automatically rank Favorites by popularity
-- Make Popularity dynamic and adjustable 

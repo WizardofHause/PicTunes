@@ -81,16 +81,17 @@ function engageWishButton() {
   })
 }
 
-//MAKES A <P> ELEMENT, GIVES IT CLASS .WISHED, ALBUMTITLE CONTENT, AND ADDS IT TO THE WISHLIST DIV
+//MAKES A <li> ELEMENT, GIVES IT CLASS .WISHED, ALBUMTITLE CONTENT, AND ADDS IT TO THE WISHLIST DIV
 function createWishedItem() {
   let wishList = document.querySelector('#wish-list')
   let albumTitle = document.querySelector('#album-title')
-
   let wishedAlbum = document.createElement('li')
+
   wishedAlbum.classList.add('wished')
-  wishedAlbum.textContent = (albumTitle.textContent)
+  wishedAlbum.textContent = (albumTitle.textContent + " ")
   wishList.appendChild(wishedAlbum)
 }
+
 
 //ALERTS THAT THE ALBUM IS ALREADY ADDED
 function alertAlreadyWished() {
@@ -119,16 +120,6 @@ function engageResetButton(){
     currentAlbum.popularity = 0
     document.querySelector('#score').textContent = 0
   })
-}
-
-function setGradient(){
-  body.style.background = 
-  "linear-gradient(to right, " 
-  + `${currentAlbum.color}`
-  + ", " 
-  + "black" 
-  + ");";
-  // css.textContent = body.style.background + ";";
 }
 
 //Blank format to add extra stuff to db.json
