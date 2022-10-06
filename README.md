@@ -2,7 +2,6 @@ Phase-1 Project
 
 :: As a user, I want to be able to take albums and ultimately rank/compare them by their popularity. Some core features of this include taking albums, returning their popularity score, allow users to build a "favorites bar," and then rank & compare them from most to least popular. 
 
-*~*bOnUs DeLiVeRaBlEs*~* Make a form that allows users to input their own favorite albums and add them to the Favorites Bar.
 
 EXECUTION:
 Describe/sketch your ideas (use diagrams!).

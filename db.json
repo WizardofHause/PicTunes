@@ -22,6 +22,7 @@
                 "day": 25,
                 "year": 1984
             },
+            "color": "#871eef",
             "wish_list": false
         },
         {
@@ -54,6 +55,7 @@
                 "day": 26,
                 "year": 1969
             },
+            "color": "#87ecf3",
             "wish_list": false
         },
         {
@@ -77,6 +79,7 @@
                 "day": 21,
                 "year": 1972
             },
+            "color": "#a59a79",
             "wish_list": false
         },
         {
@@ -101,6 +104,7 @@
                 "day": 30,
                 "year": 1982
             },
+            "color": "#cdab30",
             "wish_list": false
         },
         {
@@ -129,6 +133,7 @@
                 "day": 24,
                 "year": 1991
             },
+            "color": "0dd5e8",
             "wish_list": false
         },
         {
@@ -160,6 +165,7 @@
                 "day": 15,
                 "year": 1994
             },
+            "color": "#ed3911",
             "wish_list": false
         },
         {
@@ -184,6 +190,7 @@
                 "day": 12,
                 "year": 1984
             },
+            "color": "#ab82dc",
             "wish_list": false
         },
         {
@@ -217,6 +224,7 @@
                 "day": 23,
                 "year": 2000
             },
+            "color": "decd9b",
             "wish_list": false
         },
         {
@@ -253,6 +261,7 @@
                 "day": 28,
                 "year": 1976
             },
+            "color": "f97b04",
             "wish_list": false
         },
         {
@@ -279,6 +288,7 @@
                 "day": 10,
                 "year": 1978
             },
+            "color": "f90404",
             "wish_list": false
         },
         {
@@ -305,6 +315,7 @@
                 "day": 24,
                 "year": 2011
             },
+            "color": "#ffffff",
             "wish_list": false
         },
         {
@@ -346,6 +357,7 @@
                 "day": 30,
                 "year": 1979
             },
+            "color": "#ffffff",
             "wish_list": false
         },
         {
@@ -373,6 +385,7 @@
                 "day": 12,
                 "year": 1991
             },
+            "color": "#726b6b",
             "wish_list": false
         },
         {
@@ -404,6 +417,7 @@
                 "day": 4,
                 "year": 1997
             },
+            "color": "#880a0a",
             "wish_list": false
         },
         {
@@ -443,6 +457,7 @@
                 "day": 25,
                 "year": 1997
             },
+            "color": "#e0990b",
             "wish_list": false
         },
         {
@@ -471,6 +486,7 @@
                 "day": 15,
                 "year": 1986
             },
+            "color": "#f9e290",
             "wish_list": false
         },
         {
@@ -501,6 +517,7 @@
                 "day": 1,
                 "year": 1994
             },
+            "color": "#9fc8f5",
             "wish_list": false
         },
         {
@@ -527,6 +544,7 @@
                 "day": 4,
                 "year": 1997
             },
+            "color": "#f8f9b8",
             "wish_list": false
         },
         {
@@ -554,6 +572,7 @@
                 "day": 4,
                 "year": 1984
             },
+            "color": "#ff2727",
             "wish_list": false
         },
         {
@@ -581,6 +600,7 @@
                 "day": 21,
                 "year": 1987
             },
+            "color": "#4a0094",
             "wish_list": false
         },
         {
@@ -607,6 +627,7 @@
                 "day": 9,
                 "year": 1987
             },
+            "color": "#000000",
             "wish_list": false
         },
         {
@@ -649,6 +670,7 @@
                 "day": 13,
                 "year": 1996
             },
+            "color": "#692f00",
             "wish_list": false
         },
         {
@@ -677,6 +699,7 @@
                 "day": 1,
                 "year": 1967
             },
+            "color": "#60d4fe",
             "wish_list": false
         },
         {
@@ -700,6 +723,167 @@
                 "day": 28,
                 "year": 1973
             },
+            "color": "#60d4fe",
+            "wish_list": false
+        },
+        {
+            "id": 25,
+            "artist": "Carole King",
+            "title": "Tapestry",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/7514-tapestry.jpg",
+            "popularity": 87,
+            "tracks": [
+                "I Feel the Earth Move",
+                "So Far Away",
+                "It's Too Late",
+                "Home Again",
+                "Beautiful",
+                "Way Over Yonder",
+                "You've Got a Friend",
+                "Where You Lead",
+                "Will You Love Me Tomorrow?",
+                "Smackwater Jack",
+                "Tapestry",
+                "(You Make Me Feel Like) A Natural Woman"
+            ],
+            "date": {
+                "month": "February",
+                "day": 10,
+                "year": 1971
+            },
+            "color": "#BBD8DA",
+            "wish_list": false
+        },
+        {
+            "id": 26,
+            "artist": "Pink Floyd",
+            "title": "Dark Side of the Moon",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/4204-the-dark-side-of-the-moon.jpg",
+            "popularity": 89,
+            "tracks": [
+                "Speak to Me",
+                "Breathe (In the Air)",
+                "On the Run",
+                "Time",
+                "The Great Gig In the Sky",
+                "Money",
+                "Us and Them",
+                "Any Colour Y'ou Like",
+                "Brain Damage",
+                "Eclipse"
+            ],
+            "date": {
+                "month": "March",
+                "day": 1,
+                "year": 1973
+            },
+            "color": "#9f9f9f",
+            "wish_list": false
+        },
+        {
+            "id": 27,
+            "artist": "Garth Brooks",
+            "title": "No Fences",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/7442-no-fences.jpg",
+            "popularity": 57,
+            "tracks": [
+                "The Thunder Rolls",
+                "New Way To Fly",
+                "Two of a Kind, Workin' on a Full House",
+                "Victim of the Game",
+                "Friends in Low Places",
+                "Wild Horses",
+                "Unanswered Prayers",
+                "Same Old Story",
+                "Mr. Blue",
+                "Wolves"
+            ],
+            "date": {
+                "month": "August",
+                "day": 27,
+                "year": 1990
+            },
+            "color": "#628588",
+            "wish_list": false
+        },
+        {
+            "id": 28,
+            "artist": "George Michael",
+            "title": "Faith",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/8777-faith.jpg",
+            "popularity": "81",
+            "tracks": [
+                "Faith",
+                "Father Figure",
+                "I Want Your Sex (Parts 1 & 2)",
+                "One More Try",
+                "Hard Day",
+                "Hand to Mouth",
+                "Look at Your Hands",
+                "Monkey",
+                "Kissing a Fool"
+            ],
+            "date": {
+                "month": "November",
+                "day": 2,
+                "year": 1987
+            },
+            "color": "#d89900",
+            "wish_list": false
+        },
+        {
+            "id": 29,
+            "artist": "AC/DC",
+            "title": "Back in Black",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/back-in-black.jpg",
+            "popularity": "75",
+            "tracks": [
+                "Hells Bells",
+                "Shoot to Thrill",
+                "What Do You Do for Money Honey",
+                "Givin the Dog a Bone",
+                "Let Me Put My Love Into You",
+                "Back In Black",
+                "You Shook Me All Night Long",
+                "Have a Drink On Me",
+                "Shake a Leg",
+                "Rock and Roll Ain't Noise Pollution"
+            ],
+            "date": {
+                "month": "July",
+                "day": 25,
+                "year": 1980
+            },
+            "color": "#900c3f",
+            "wish_list": false
+        },
+        {
+            "id": 30,
+            "artist": "Taylor Swift",
+            "title": "Fearless",
+            "img_url": "https://cdn2.albumoftheyear.org/750x/album/fearless.jpg",
+            "popularity": 70,
+            "tracks": [
+                "Fearless",
+                "Fifteen",
+                "Love Story",
+                "Hey Stephen",
+                "White Horse",
+                "You Belong With Me",
+                "Breathe",
+                "Tell Me Why",
+                "You're Not Sorry",
+                "The Way I Loved You",
+                "Forever & Always",
+                "The Best Day",
+                "Change"
+            ],
+            "date": {
+                "month": "November",
+                "day": 11,
+                "year": 2008
+            },
+            "color": "#ffebbb",
             "wish_list": false
         }
     ]

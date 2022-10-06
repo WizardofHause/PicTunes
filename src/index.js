@@ -1,6 +1,7 @@
 let albumData;
 let currentAlbum;
 
+//FETCHES DATA
 fetch("http://localhost:3000/albums")
   .then(response => response.json())
   .then(json => {
@@ -14,6 +15,7 @@ fetch("http://localhost:3000/albums")
     engageResetButton()
   });
 
+//CREATES ICONS FOR ALBUMS IN THE IMG-CONTAINER DIV
 function makeIcons(album) {
   let albumContainer = document.querySelector('#img-container')
   let albumImg = document.createElement('img')
@@ -29,6 +31,7 @@ function makeIcons(album) {
   })
 };
 
+//BRINGS CLICKED ALBUM TO THE MAIN DISPLAY DIV
 function displayData(album) {
   currentAlbum = album;
 
@@ -37,16 +40,18 @@ function displayData(album) {
   let artistName = document.querySelector('#artist-name');
   let releaseDate = document.querySelector('#release-date');
   let trackList = document.querySelector('#track-list');
-  let popularityScore = document.querySelector('#score')
-  let wishButton = document.querySelector('#wish-button')
+  let popularityScore = document.querySelector('#score');
+  let wishButton = document.querySelector('#wish-button');
+  let docBody = document.querySelector('#body');
 
   albumTitle.textContent = `${album.title}`;
   albumImg.src = album.img_url;
   artistName.textContent = `Artist: ${album.artist}`;
   releaseDate.textContent = `Released: ${album.date.month} ${album.date.day}, ${album.date.year}`;
   trackList = getTrackData(album.tracks);
-  popularityScore.textContent = `${album.popularity}`;
+  popularityScore.textContent = Math.min(Math.max(parseInt(`${album.popularity}`), 0), 100);
   wishButton.textContent = album.wish_list ? 'ADDED!' : 'ADD TO WISHLIST';
+  docBody.style.backgroundColor = `${album.color}`;
 }
 
 //ITERATES THROUGH ALBUM TRACKS, RETURNS THE TRACK NAME
@@ -94,6 +99,7 @@ function alertAlreadyWished() {
   currentAlbum.wish_list = true;
 }
 
+//ALLOWS FOR INTEGER INCREASES IN POPULARITY SCORE
 function engagePopularityForm() {
   let popularityForm = document.querySelector('#popularity-form');
   popularityForm.addEventListener('submit', (event) => {
@@ -101,12 +107,13 @@ function engagePopularityForm() {
 
     const scoreAdd = event.target['pop-score'].value;
     currentAlbum.popularity += parseInt(scoreAdd);
-    document.querySelector('#score').textContent = currentAlbum.popularity;
+    document.querySelector('#score').textContent = Math.min(Math.max(parseInt(currentAlbum.popularity), 0), 100);
     popularityForm.reset();
   })
 }
 
-function engageResetButton() {
+//RESETS TOTAL SCORE BACK TO 0
+function engageResetButton(){
   const resetButton = document.querySelector('#reset-button');
   resetButton.addEventListener('click', () => {
     currentAlbum.popularity = 0
@@ -114,10 +121,15 @@ function engageResetButton() {
   })
 }
 
-//CREATE A 'LISTED' BOOLEAN ATTRIBUTE IN THE ALBUMS OBJECTS TO CHECK FOR WISHLIST
-//WRITE CSS TO COLLECT THE ALBUM ART INTO ONE CLEAN CONTAINER...PAGE BOOK?
-//MAKE POPULARITY SCORE ADJUSTABLE
-//
+function setGradient(){
+  body.style.background = 
+  "linear-gradient(to right, " 
+  + `${currentAlbum.color}`
+  + ", " 
+  + "black" 
+  + ");";
+  // css.textContent = body.style.background + ";";
+}
 
 //Blank format to add extra stuff to db.json
 // {
@@ -132,5 +144,6 @@ function engageResetButton() {
 //         "month": "",
 //         "day": ,
 //         "year": 
-//     }
-// }
+//     },
+//     "wish_list": false
+// },
