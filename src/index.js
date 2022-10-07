@@ -52,7 +52,7 @@ window.addEventListener('DOMContentLoaded', () => {
     releaseDate.textContent = `Released: ${album.date.month} ${album.date.day}, ${album.date.year}`;
     trackList = getTrackData(album.tracks);
     popularityScore.textContent = Math.min(Math.max(parseInt(`${album.popularity}`), 0), 100);
-    wishButton.textContent = album.wish_list ? 'ADDED!' : 'ADD TO WISHLIST';
+    wishButton.textContent = album.wish_list ? 'ADDED!' : 'ADD TO LIBRARY';
     docBody.style.backgroundColor = `${album.color}`;
   }
 
@@ -78,7 +78,7 @@ window.addEventListener('DOMContentLoaded', () => {
     let wishButton = document.querySelector('#wish-button');
     wishButton.addEventListener('click', (event) => {
       currentAlbum.wish_list = !currentAlbum.wish_list;
-      event.target.textContent === 'ADD TO WISHLIST' ? createWishedItem() : alertAlreadyWished();
+      event.target.textContent === 'ADD TO LIBRARY' ? createWishedItem() : alertAlreadyWished();
       event.target.textContent = 'ADDED!'
     })
   }
