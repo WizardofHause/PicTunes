@@ -98,7 +98,7 @@ window.addEventListener('DOMContentLoaded', () => {
   //ALERTS THAT THE ALBUM IS ALREADY ADDED
   function alertAlreadyWished() {
     let albumTitle = document.querySelector('#album-title')
-    alert(`(☞ﾟヮﾟ)☞ ${albumTitle.textContent} is already on your wishlist! ☜(ﾟヮﾟ☜)`);
+    alert(`(☞ﾟヮﾟ)☞ ${albumTitle.textContent} is already in your PicTunes Library! ☜(ﾟヮﾟ☜)`);
     currentAlbum.wish_list = true;
   }
 
