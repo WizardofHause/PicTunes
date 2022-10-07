@@ -1,4 +1,4 @@
-// window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('DOMContentLoaded', () => {
   let albumData;
   let currentAlbum;
 
@@ -123,7 +123,7 @@
       document.querySelector('#score').textContent = 0
     })
   }
-// })
+})
 //Blank format to add extra stuff to db.json
 // {
 //     "id": 25,
