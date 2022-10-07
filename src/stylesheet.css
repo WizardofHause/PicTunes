@@ -158,11 +158,13 @@ button {
     justify-content: flex-start;
 }
 #wish-button{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-left: 0px;
+    display: block; 
 }
 #wish-list {
     list-style: none;
-    margin-bottom: 400px;
 }
 #form-head {
     padding-top: 150px;
