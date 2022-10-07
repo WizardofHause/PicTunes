@@ -109,7 +109,7 @@ window.addEventListener('DOMContentLoaded', () => {
       event.preventDefault();
 
       const scoreAdd = event.target['pop-score'].value;
-      currentAlbum.popularity += parseInt(scoreAdd);
+      currentAlbum.popularity = parseInt(scoreAdd);
       document.querySelector('#score').textContent = Math.min(Math.max(parseInt(currentAlbum.popularity), 0), 100);
       popularityForm.reset();
     })
