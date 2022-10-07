@@ -1,19 +1,3 @@
 Phase-1 Project
 
-:: As a user, I want to be able to take albums and ultimately rank/compare them by their popularity. Some core features of this include taking albums, returning their popularity score, allow users to build a "favorites bar," and then rank & compare them from most to least popular. 
-
-
-EXECUTION:
-Describe/sketch your ideas (use diagrams!).
-
-Start by creating a frontend directory with the basic files you'll need
-
-Next, build enough code to get some API data to work with. Don't worry about building all of your async code yet, just get to the point where you can access one endpoint on an API, then start working on getting that data displayed.
-
-Then, continue to build additional async code and frontend features.
-
-Continue building features one by one.
-
-
-OBJECTIVES:
-- Automatically rank Favorites by popularity
+As a user, I want to be able to see my favorite albums and other information about them. I would like to see the track list, album name, artist name, as well as the date it was released and how popular it is. I would also like to be able to to add my favorite ones into a list so that I can refer back to them at a later time and update the popularity score as I see fit. It would also be nice to see an image of the album as well. 
