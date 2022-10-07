@@ -23,7 +23,8 @@
                 "year": 1984
             },
             "color": "#871eef",
-            "wish_list": false
+            "wish_list": false,
+            "platinum": 13
         },
         {
             "id": 2,
@@ -133,7 +134,7 @@
                 "day": 24,
                 "year": 1991
             },
-            "color": "0dd5e8",
+            "color": "#0dd5e8",
             "wish_list": false
         },
         {
@@ -224,7 +225,7 @@
                 "day": 23,
                 "year": 2000
             },
-            "color": "decd9b",
+            "color": "#7F6B2D",
             "wish_list": false
         },
         {
@@ -261,7 +262,7 @@
                 "day": 28,
                 "year": 1976
             },
-            "color": "f97b04",
+            "color": "#f97b04",
             "wish_list": false
         },
         {
@@ -288,7 +289,7 @@
                 "day": 10,
                 "year": 1978
             },
-            "color": "f90404",
+            "color": "#f90404",
             "wish_list": false
         },
         {
@@ -315,7 +316,7 @@
                 "day": 24,
                 "year": 2011
             },
-            "color": "#ffffff",
+            "color": "#A8E031",
             "wish_list": false
         },
         {
@@ -357,7 +358,7 @@
                 "day": 30,
                 "year": 1979
             },
-            "color": "#ffffff",
+            "color": "#EEEEFF",
             "wish_list": false
         },
         {
@@ -572,7 +573,7 @@
                 "day": 4,
                 "year": 1984
             },
-            "color": "#ff2727",
+            "color": "#6162AA",
             "wish_list": false
         },
         {
@@ -627,7 +628,7 @@
                 "day": 9,
                 "year": 1987
             },
-            "color": "#000000",
+            "color": "#FFDA62",
             "wish_list": false
         },
         {
@@ -723,7 +724,7 @@
                 "day": 28,
                 "year": 1973
             },
-            "color": "#60d4fe",
+            "color": "#FF8700",
             "wish_list": false
         },
         {
@@ -854,7 +855,7 @@
                 "day": 25,
                 "year": 1980
             },
-            "color": "#900c3f",
+            "color": "#760000",
             "wish_list": false
         },
         {
