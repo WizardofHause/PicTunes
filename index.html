@@ -6,11 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PicTunes</title>
-    <link rel="stylesheet" href=src/stylesheet.css>
+    <link rel="stylesheet" href=stylesheet.css>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-    </head>
+</head>
 
 <body id="body">
     <h1>PicTunes</h1>
@@ -19,10 +19,12 @@
         <!-- IMAGE NAV BAR GOES HERE : CLASS = 'ALBUM-COVER' -->
     </div>
     <div id="container">
-        <div class="main-image">     <!-- BIG MAIN IMAGE -->
-            <img id="main-display" src="" alt="Album Image"> 
+        <div class="main-image">
+            <!-- BIG MAIN IMAGE -->
+            <img id="main-display" src="" alt="Album Image">
         </div>
-        <div id="text-content"> <!-- ALBUM CONTENT -->
+        <div id="text-content">
+            <!-- ALBUM CONTENT -->
             <h3 id="artist-name" class="album-data">Artist:</h3>
             <h3 id="title-head" class="album-data">Album:</h3>
             <p id="album-title"></p>
@@ -33,7 +35,8 @@
             <br>
             <form id="popularity-form">
                 <!-- POPULARITY SCORE UPDATER FORM -->
-                <input type="text" placeholder="  Change Popularity Score" id="pop-score" name="score"> <!-- USER INPUT NEW SCORE VALUE -->
+                <input type="text" placeholder="  Change Popularity Score" id="pop-score" name="score">
+                <!-- USER INPUT NEW SCORE VALUE -->
                 <input type="submit" value=" UPDATE " id="update-button"> <!-- UPDATE BUTTON -->
             </form>
             <button id="reset-button"> RESET </button>
@@ -45,7 +48,7 @@
         <!-- WISH LIST STARTS HERE -->
         <div id="wish-container">
             <button id="wish-button"> ADD TO WISHLIST </button>
-            <h3>My Wishlist</h3>
+            <h3>PicTunes Library:</h3>
             <ul id="wish-list">
             </ul>
             <!-- SEARCH BAR UNDER HERE -->
@@ -54,8 +57,16 @@
                 <input type="search" id="query" name="q" placeholder="  Search...">
                 <button> LET'S BOOGIE </button>
             </form>
+
+            <h3>LISTEN NOW!</h3>
+            <form action="https://www.youtube.com/search" method="get" id="form2">
+                <input type="search" id="query" name="q" placeholder=" Search...">
+                <button> LISTEN NOW </button>
+            </form>
+
         </div>
     </div>
-    <script src="src/index.js"></script>
+    <script src="index.js"></script>
 </body>
+
 </html>
