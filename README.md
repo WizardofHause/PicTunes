@@ -6,4 +6,6 @@ As a user, I want to be able to see my favorite albums and other information abo
 
 - THE MOST INNOVATIVE AND CUTTING EDGE MUSIC EXPERIENCE IN THIS ENTIRE GITHUB REPOSITORY -
 
-As a user of PicTunes, you'll have exclusive access to at least 30 RIAA-certified diamond-selling albums, and build your own personal library of PicTunes albums. 
+Users of PicTunes have unlimited exclusive access to over 29 RIAA-certified diamond-selling albums' cover art and the corresponding tracklists. Each album is pre-set with a PicTunes Popularity score from 0 to 100 that users can update and reset at the click of a button. 
+
+Users can build their own personal PicTunes Library of PicTunes albums, to keep track of their favorites. 
