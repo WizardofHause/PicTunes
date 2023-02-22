@@ -15,9 +15,9 @@ Users can build their own personal PicTunes Library of PicTunes albums, to keep 
 3. Run `json-server --watch db.json` from the terminal
 4. Open Live Server 
 ### Event Listeners
-⁃ DOMContentLoaded (fires when DOM content is loaded and doesn’t wait for images and stylesheets to load
-⁃ ‘Click’ (displays data for the albums)
-⁃ ‘Submit’ (allows user to change the popularity score of the album)
++ DOMContentLoaded (fires when DOM content is loaded and doesn’t wait for images and stylesheets to load
++ ‘Click’ (displays data for the albums)
++ ‘Submit’ (allows user to change the popularity score of the album)
 ## Challenges
 Our first two APIs that we tried to use did not work and required constant authorization (Spotify and MusicBrainz). Because of this issue, we had to develop our own database with information about the albums. This took a some pretty intense attention to detail and we learned how particular a JSON file is...and how important a comma can be. 
 ## Favorites
